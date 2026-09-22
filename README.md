@@ -1,5 +1,5 @@
 # Health-Insurance-premium-prediction
-# Health Insurance Charges Prediction
+# Health-Insurance Charges Prediction
 
 ## Project Overview
 
